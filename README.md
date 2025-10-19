@@ -4,7 +4,7 @@
 # 🚀 About Me  
 💻 First-Year Computer Science & Engineering Student  
 🌱 Passionate about coding, problem-solving & building cool projects  
-📚 Currently learning **Java** while improving my **web development** skills  
+📚 Currently learning **Java** and **Python** while improving my **web development** skills  
 ✨ Always curious, always learning!  
 
 
@@ -14,6 +14,7 @@
 
 ## 🛠️ Tech Stack  
 - **Languages:**
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - **Web Development:**
