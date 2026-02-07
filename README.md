@@ -29,6 +29,6 @@
 
 ## 📌 Current Goals  
 - Build small, impactful projects  
-- Explore backend development with Java  
+- Explore backend development with C++  
 - Learn and implement modern web technologies   
 
